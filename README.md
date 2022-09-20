@@ -1,16 +1,11 @@
-# nubank_clone
+# Nubank Clone
 
-A new Flutter project.
+Projeto da página Home e Perfil do aplicativo Nubank
 
-## Getting Started
+Project from the Home and Profile pages from the app Nubank
 
-This project is a starting point for a Flutter application.
+## Resumo
 
-A few resources to get you started if this is your first Flutter project:
+Projeto do aplicativo Clone do Nubank mostrando a página Home e a págna Perfil  do aplicativo nubank com a UI de 2022 utilizando Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project for Nubank Clone app showing the Home page and Profile page using 2022 UI. Made using Flutter.
