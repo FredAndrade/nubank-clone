@@ -1,2 +1,2 @@
 *.Makefile.d linguist-generated=false
-Makefile/* linguist-vendored
+*.d linguist-vendored
